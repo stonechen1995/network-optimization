@@ -1,3 +1,8 @@
+.DS_Store
+.metadata/
+.settings/
+
+
 # Compiled class file
 *.class
 
